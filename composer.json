@@ -16,7 +16,6 @@
         "nesbot/carbon": "^2.53",
         "illuminate/queue": "^8.0",
         "symfony/http-client": "^5.3",
-        "videlalvaro/php-amqplib": "^2.4",
         "vladimir-yuldashev/laravel-queue-rabbitmq": "^11.3",
         "trijayadigital/cekmutasi-laravel": "dev-master",
         "xendit/xendit-php": "^2.15"
